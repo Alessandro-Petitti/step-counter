@@ -29,7 +29,8 @@ To use this project, you will need the following:
 To set up the Step Counter project, follow these steps:
 
 1. Clone this repository to your local machine using the following command:
-git clone https://github.com/your-username/step-counter.git
+''' bash
+git clone https://github.com/Alessandro-Petitti/step-counter.git'''
  Alternatively, you can download the ZIP file and extract it to a local directory.
 
 3. Open the Arduino IDE (or your preferred IDE) and navigate to the project directory.
