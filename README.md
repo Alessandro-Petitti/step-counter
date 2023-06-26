@@ -14,8 +14,7 @@ Welcome to the Step Counter repository! This project utilizes the M5Stack, a han
 
 The Step Counter project aims to provide a simple and efficient way to count your steps using the M5Stack device and its integrated IMU. By utilizing the IMU's accelerometer, we can detect motion and infer the number of steps taken.
 
-This repository contains all the necessary code and resources required to set up the step counter on your M5Stack device. The project is open-source, and we encourage contributions from the community to enhance its functionality.
-
+This repository contains all the necessary code and resources required to set up the step counter on your M5Stack device. The project is open-source!
 ## Prerequisites
 
 To use this project, you will need the following:
@@ -41,7 +40,7 @@ git clone https://github.com/Alessandro-Petitti/step-counter.git
 
 5. Connect your M5Stack device to your computer using a USB cable.
 
-6. Open the `step_counter.ino` file in the Arduino IDE.
+6. Open the `podometro.ino` file in the Arduino IDE.
 
 7. Select the appropriate board and port from the **Tools** menu.
 
@@ -53,12 +52,12 @@ To use the Step Counter, follow these instructions:
 
 1. Ensure that the Step Counter project is uploaded and running on your M5Stack device.
 
-2. Place the M5Stack device securely in your pocket or attach it to your body using the provided accessories.
+2. Place the M5Stack device securely on your belt loops, preferably in the center back of your waist.
 
 3. Start walking or running, and the M5Stack device will count your steps using the IMU's accelerometer.
 
 4. You can monitor the step count on the M5Stack device's display or retrieve it programmatically for further processing.
 
-5. To reset the step count, press the designated button (if implemented) or restart the M5Stack device.
+5. To reset the step count, restart the M5Stack device.
 
 
